@@ -1,0 +1,2 @@
+2024-09-16 08:34:38.790 [warning] /home/user/.ssh/config: ENOENT: no such file or directory, open '/home/user/.ssh/config'
+2024-09-16 08:34:38.790 [info] Activation> Extension version: 0.96.0

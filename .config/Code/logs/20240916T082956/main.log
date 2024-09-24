@@ -1,0 +1,25 @@
+2024-09-16 08:29:56.243 [info] update#setState idle
+2024-09-16 08:30:26.250 [info] update#setState checking for updates
+2024-09-16 08:30:26.252 [error] Error: ENOENT: no such file or directory, lstat '/snap/code'
+2024-09-16 08:30:26.255 [info] update#setState idle
+2024-09-16 08:30:27.685 [info] update#setState checking for updates
+2024-09-16 08:30:27.690 [error] Error: ENOENT: no such file or directory, lstat '/snap/code'
+2024-09-16 08:30:27.691 [info] update#setState idle
+2024-09-16 08:31:14.869 [error] [UtilityProcessWorker]: terminated unexpectedly with code 32512, signal: unknown
+2024-09-16 08:31:14.872 [error] [UtilityProcess id: 2, type: fileWatcher, pid: 5114]: crashed with code 32512 and reason 'abnormal-exit'
+2024-09-16 08:31:14.948 [error] [UtilityProcessWorker]: terminated unexpectedly with code 32512, signal: unknown
+2024-09-16 08:31:14.948 [error] [UtilityProcess id: 2, type: fileWatcher, pid: 5117]: crashed with code 32512 and reason 'abnormal-exit'
+2024-09-16 08:31:14.982 [info] Extension host with pid 5118 exited with code: 32512, signal: unknown.
+2024-09-16 08:31:14.983 [error] [UtilityProcess id: 2, type: extensionHost, pid: 5118]: crashed with code 32512 and reason 'abnormal-exit'
+2024-09-16 08:31:14.992 [error] [UtilityProcessWorker]: terminated unexpectedly with code 32512, signal: unknown
+2024-09-16 08:31:14.992 [error] [UtilityProcess id: 2, type: fileWatcher, pid: 5119]: crashed with code 32512 and reason 'abnormal-exit'
+2024-09-16 08:31:15.010 [error] [UtilityProcessWorker]: terminated unexpectedly with code 32512, signal: unknown
+2024-09-16 08:31:15.010 [error] [UtilityProcess id: 2, type: fileWatcher, pid: 5120]: crashed with code 32512 and reason 'abnormal-exit'
+2024-09-16 08:31:15.054 [error] [UtilityProcessWorker]: terminated unexpectedly with code 32512, signal: unknown
+2024-09-16 08:31:15.054 [error] [UtilityProcess id: 2, type: fileWatcher, pid: 5121]: crashed with code 32512 and reason 'abnormal-exit'
+2024-09-16 08:31:15.104 [error] [UtilityProcessWorker]: terminated unexpectedly with code 32512, signal: unknown
+2024-09-16 08:31:15.105 [error] [UtilityProcess id: 2, type: fileWatcher, pid: 5122]: crashed with code 32512 and reason 'abnormal-exit'
+2024-09-16 08:31:15.534 [info] Extension host with pid 5129 exited with code: 32512, signal: unknown.
+2024-09-16 08:31:15.534 [error] [UtilityProcess id: 3, type: extensionHost, pid: 5129]: crashed with code 32512 and reason 'abnormal-exit'
+2024-09-16 08:32:15.562 [info] Extension host with pid 5167 exited with code: 32512, signal: unknown.
+2024-09-16 08:32:15.562 [error] [UtilityProcess id: 4, type: extensionHost, pid: 5167]: crashed with code 32512 and reason 'abnormal-exit'

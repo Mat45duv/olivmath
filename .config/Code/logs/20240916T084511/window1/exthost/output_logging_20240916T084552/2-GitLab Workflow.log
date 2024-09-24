@@ -1,0 +1,42 @@
+2024-09-16T09:02:36:701 [warning]: There is no GitLab account available with access to suggestions
+2024-09-16T09:02:36:707 [info]: Extracted urls: []
+2024-09-16T09:02:36:712 [info]: Found 0 projects for urls: []
+2024-09-16T09:02:36:713 [warning]: There is no GitLab account available with access to suggestions
+2024-09-16T09:06:07:146 [error]: Cancelling the GitLab OAuth login after 60s. Try again.
+    Error: Cancelling the GitLab OAuth login after 60s. Try again.
+    	at Timeout._onTimeout (/home/user/.vscode/extensions/gitlab.gitlab-workflow-5.9.1/extension.js:967:6556)
+    	at listOnTimeout (node:internal/timers:573:17)
+    	at process.processTimers (node:internal/timers:514:7)
+2024-09-16T09:07:49:617 [info]: Extracted urls: []
+2024-09-16T09:07:49:617 [info]: Found 0 projects for urls: []
+2024-09-16T09:07:49:621 [info]: Configuring Language Server - baseUrl: https://gitlab.com
+2024-09-16T09:08:10:970 [error]: Cancelling the GitLab OAuth login after 60s. Try again.
+    Error: Cancelling the GitLab OAuth login after 60s. Try again.
+    	at Timeout._onTimeout (/home/user/.vscode/extensions/gitlab.gitlab-workflow-5.9.1/extension.js:967:6556)
+    	at listOnTimeout (node:internal/timers:573:17)
+    	at process.processTimers (node:internal/timers:514:7)
+2024-09-16T09:11:45:446 [error]: Canceled
+    Canceled: Canceled
+    	at Object.f [as $0] (/snap/code/169/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:1082)
+    	at /snap/code/169/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:2406
+    	at Array.forEach (<anonymous>)
+    	at y.dispose (/snap/code/169/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:2344)
+    	at m.terminate (/snap/code/169/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:167:8389)
+    	at $.terminate (/snap/code/169/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:171:1513)
+    	at n (/snap/code/169/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:184:10613)
+    	at MessagePortMain.<anonymous> (/snap/code/169/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:184:6805)
+    	at MessagePortMain.emit (node:events:519:28)
+    	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2619)
+2024-09-16T09:11:45:447 [error]: Canceled
+    Canceled: Canceled
+    	at new D (/snap/code/169/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:35235)
+    	at y.U (/snap/code/169/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:6005)
+    	at V.<computed>.F.charCodeAt.A.CharCode.DollarSign.V.<computed> (/snap/code/169/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:3107)
+    	at T.showMessage (/snap/code/169/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:6809)
+    	at Object.showErrorMessage (/snap/code/169/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:171:41209)
+    	at /home/user/.vscode/extensions/gitlab.gitlab-workflow-5.9.1/extension.js:485:418
+    	at wr (/home/user/.vscode/extensions/gitlab.gitlab-workflow-5.9.1/extension.js:485:511)
+    	at run (/home/user/.vscode/extensions/gitlab.gitlab-workflow-5.9.1/extension.js:967:8433)
+    	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    	at async /home/user/.vscode/extensions/gitlab.gitlab-workflow-5.9.1/extension.js:575:2339
+    	at async h (/snap/code/169/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:161:210546)

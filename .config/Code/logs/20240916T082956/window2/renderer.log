@@ -1,0 +1,27 @@
+2024-09-16 08:31:14.908 [error] [UtilityProcessWorker]: terminated unexpectedly with code 32512, signal: unknown
+2024-09-16 08:31:14.934 [error] [File Watcher (universal)] restarting watcher after unexpected error: terminated by itself unexpectedly with code 32512, signal: unknown (ETERM)
+2024-09-16 08:31:14.973 [error] [UtilityProcessWorker]: terminated unexpectedly with code 32512, signal: unknown
+2024-09-16 08:31:14.974 [error] [File Watcher (universal)] restarting watcher after unexpected error: terminated by itself unexpectedly with code 32512, signal: unknown (ETERM)
+2024-09-16 08:31:14.985 [info] Started local extension host with pid 5118.
+2024-09-16 08:31:14.994 [error] Extension host (LocalProcess pid: 5118) terminated unexpectedly. No extensions were activated.
+2024-09-16 08:31:14.994 [info] Automatically restarting the extension host.
+2024-09-16 08:31:14.998 [error] [UtilityProcessWorker]: terminated unexpectedly with code 32512, signal: unknown
+2024-09-16 08:31:14.999 [error] [File Watcher (universal)] restarting watcher after unexpected error: terminated by itself unexpectedly with code 32512, signal: unknown (ETERM)
+2024-09-16 08:31:15.043 [error] [UtilityProcessWorker]: terminated unexpectedly with code 32512, signal: unknown
+2024-09-16 08:31:15.043 [error] [File Watcher (universal)] restarting watcher after unexpected error: terminated by itself unexpectedly with code 32512, signal: unknown (ETERM)
+2024-09-16 08:31:15.083 [error] [UtilityProcessWorker]: terminated unexpectedly with code 32512, signal: unknown
+2024-09-16 08:31:15.084 [error] [File Watcher (universal)] restarting watcher after unexpected error: terminated by itself unexpectedly with code 32512, signal: unknown (ETERM)
+2024-09-16 08:31:15.152 [error] [UtilityProcessWorker]: terminated unexpectedly with code 32512, signal: unknown
+2024-09-16 08:31:15.152 [error] [File Watcher (universal)] gave up attempting to restart watcher after unexpected error: terminated by itself unexpectedly with code 32512, signal: unknown (ETERM)
+2024-09-16 08:31:15.551 [info] Started local extension host with pid 5129.
+2024-09-16 08:31:15.554 [error] Extension host (LocalProcess pid: 5129) terminated unexpectedly. No extensions were activated.
+2024-09-16 08:31:15.557 [info] Automatically restarting the extension host.
+2024-09-16 08:31:17.703 [info] [perf] Render performance baseline is 25ms
+2024-09-16 08:32:14.971 [error] Error received from starting extension host (kind: LocalProcess)
+2024-09-16 08:32:14.971 [error] The local extension host took longer than 60s to send its ready message.
+2024-09-16 08:32:15.549 [error] Error received from starting extension host (kind: LocalProcess)
+2024-09-16 08:32:15.550 [error] The local extension host took longer than 60s to send its ready message.
+2024-09-16 08:32:15.563 [info] Started local extension host with pid 5167.
+2024-09-16 08:32:15.564 [error] Extension host (LocalProcess pid: 5167) terminated unexpectedly. No extensions were activated.
+2024-09-16 08:33:15.580 [error] Error received from starting extension host (kind: LocalProcess)
+2024-09-16 08:33:15.581 [error] The local extension host took longer than 60s to send its ready message.

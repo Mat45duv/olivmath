@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="code_code.desktop" score="152" last-seen="1726470598"/>
+    <application id="firefox_firefox.desktop" score="21" last-seen="1726470465"/>
+    <application id="snap-store_snap-store.desktop" score="25" last-seen="1726468683"/>
+    <application id="gnome-initial-setup.desktop" score="6" last-seen="1726468163"/>
+    <application id="org.gnome.Terminal.desktop" score="34" last-seen="1726470589"/>
+    <application id="xdg-desktop-portal-gnome.desktop" score="0" last-seen="1726469957"/>
+  </context>
+</application-state>

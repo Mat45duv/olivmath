@@ -1,0 +1,22 @@
+2024-09-16 08:29:58.182 [info] Started initializing default profile extensions in extensions installation folder. file:///home/user/.vscode/extensions
+2024-09-16 08:29:58.381 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/user/.vscode/extensions
+2024-09-16 08:29:58.632 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp'
+    at o.create (/snap/code/169/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19406)
+    at u (/snap/code/169/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19517)
+    at $.hb (/snap/code/169/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36674)
+    at $.stat (/snap/code/169/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:29001)
+    at async c.stat (/snap/code/169/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14931)
+    at async W.ub (/snap/code/169/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:120356)
+2024-09-16 08:33:22.342 [info] Getting Manifest... github.vscode-pull-request-github
+2024-09-16 08:33:22.357 [info] Installing extension: github.vscode-pull-request-github {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/user/.vscode/extensions/extensions.json","path":"/home/user/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.93.1","date":"2024-09-11T17:20:05.685Z"}}
+2024-09-16 08:33:25.602 [info] Extension signature verification result for github.vscode-pull-request-github: Success. Executed: true. Duration: 1096ms.
+2024-09-16 08:33:25.707 [info] Extracted extension to file:///home/user/.vscode/extensions/github.vscode-pull-request-github-0.96.0: github.vscode-pull-request-github
+2024-09-16 08:33:25.721 [info] Renamed to /home/user/.vscode/extensions/github.vscode-pull-request-github-0.96.0
+2024-09-16 08:33:25.740 [info] Extension installed successfully: github.vscode-pull-request-github vscode-userdata:/home/user/.vscode/extensions/extensions.json
+2024-09-16 08:33:25.795 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp'
+    at o.create (/snap/code/169/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19406)
+    at u (/snap/code/169/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19517)
+    at $.hb (/snap/code/169/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36674)
+    at $.stat (/snap/code/169/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:29001)
+    at async c.stat (/snap/code/169/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14931)
+    at async W.ub (/snap/code/169/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:120356)

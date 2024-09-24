@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/user" added="2024-09-16T06:45:50.784950Z" modified="2024-09-16T06:45:50.787870Z" visited="2024-09-16T06:45:50.784950Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="snap.code" exec="&apos;gio open %u&apos;" modified="2024-09-16T06:45:50.784951Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2024-09-16T06:45:50.787869Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/cmd" added="2024-09-16T06:46:15.445855Z" modified="2024-09-16T06:46:15.696925Z" visited="2024-09-16T06:46:15.445870Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2024-09-16T06:46:15.445871Z" count="1"/>
+          <bookmark:application name="snap.code" exec="&apos;gio open %u&apos;" modified="2024-09-16T06:46:15.696924Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/html" added="2024-09-16T06:50:01.302012Z" modified="2024-09-16T06:50:01.553296Z" visited="2024-09-16T06:50:01.302013Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2024-09-16T06:50:01.302014Z" count="1"/>
+          <bookmark:application name="snap.code" exec="&apos;gio open %u&apos;" modified="2024-09-16T06:50:01.553292Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/%3Chead%3E.html" added="2024-09-16T06:59:21.956481Z" modified="2024-09-16T06:59:22.208115Z" visited="2024-09-16T06:59:21.956481Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2024-09-16T06:59:21.956482Z" count="1"/>
+          <bookmark:application name="snap.code" exec="&apos;gio open %u&apos;" modified="2024-09-16T06:59:22.208113Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

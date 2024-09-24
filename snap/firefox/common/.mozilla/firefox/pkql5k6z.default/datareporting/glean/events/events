@@ -1,0 +1,8 @@
+{"timestamp":1123586,"category":"webcompatreporting","name":"reason_dropdown","extra":{"setting":"required","glean_timestamp":"1726470180652"}}
+{"timestamp":1124185,"category":"translations.panel","name":"open","extra":{"document_language":"en","view_name":"defaultView","opened_from":"translationsButton","auto_show":"true","flow_id":"baa58d47-4890-4816-b963-f5d10292b25a","glean_timestamp":"1726470181251"}}
+{"timestamp":1124286,"category":"nimbus_events","name":"validation_failed","extra":{"feature":"addAnImageInPDF","glean_timestamp":"1726470181351","reason":"invalid-feature","experiment":"add-an-image-to-pdf-with-alt-text-rollout"}}
+{"timestamp":1124286,"category":"nimbus_events","name":"is_ready","extra":{"glean_timestamp":"1726470181352"}}
+{"timestamp":1127462,"category":"translations.panel","name":"close","extra":{"glean_timestamp":"1726470184527","flow_id":"baa58d47-4890-4816-b963-f5d10292b25a"}}
+{"timestamp":1250609,"category":"translations.panel","name":"open","extra":{"flow_id":"8977c4a5-a9cb-4daf-bd95-33820ce6607b","auto_show":"true","view_name":"defaultView","opened_from":"translationsButton","document_language":"en","glean_timestamp":"1726470307675"}}
+{"timestamp":1258375,"category":"translations.panel","name":"cancel_button","extra":{"glean_timestamp":"1726470315440","flow_id":"8977c4a5-a9cb-4daf-bd95-33820ce6607b"}}
+{"timestamp":1258378,"category":"translations.panel","name":"close","extra":{"glean_timestamp":"1726470315443","flow_id":"8977c4a5-a9cb-4daf-bd95-33820ce6607b"}}

@@ -1,0 +1,372 @@
+2024-09-16 08:45:13.581 [info] Extension host with pid 2918 started
+2024-09-16 08:45:13.842 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-09-16 08:45:13.856 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-09-16 08:45:13.902 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-09-16 08:45:13.960 [info] Eager extensions activated
+2024-09-16 08:45:13.965 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-09-16 08:45:13.968 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-09-16 08:45:13.978 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onStartupFinished', root cause: GitHub.vscode-pull-request-github
+2024-09-16 08:45:14.042 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2024-09-16 08:45:15.159 [error] Error: Git model not found
+	at s.getAPI (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:795523)
+	at new Yu (/home/user/.vscode/extensions/github.vscode-pull-request-github-0.96.0/dist/extension.js:2129:28109)
+	at Yu.createProvider (/home/user/.vscode/extensions/github.vscode-pull-request-github-0.96.0/dist/extension.js:2129:28754)
+	at async I0 (/home/user/.vscode/extensions/github.vscode-pull-request-github-0.96.0/dist/extension.js:2129:34818)
+	at async yh (/home/user/.vscode/extensions/github.vscode-pull-request-github-0.96.0/dist/extension.js:2244:5763)
+	at async Py (/home/user/.vscode/extensions/github.vscode-pull-request-github-0.96.0/dist/extension.js:2244:6868)
+2024-09-16 08:45:16.254 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-09-16 08:45:16.264 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-09-16 08:45:16.338 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-09-16 08:45:16.401 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-09-16 08:45:50.830 [info] Extension host terminating: renderer closed the MessagePort
+2024-09-16 08:45:50.850 [info] Extension host with pid 2918 exiting with code 0
+2024-09-16 08:45:52.149 [info] Extension host with pid 3116 started
+2024-09-16 08:45:52.149 [info] Skipping acquiring lock for /home/user/.config/Code/User/workspaceStorage/90a615f194363d07400206e430fdb365.
+2024-09-16 08:45:52.241 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2024-09-16 08:45:52.267 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-09-16 08:45:52.287 [info] Eager extensions activated
+2024-09-16 08:45:52.288 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-09-16 08:45:52.291 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-09-16 08:45:56.022 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2024-09-16 08:45:56.061 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onStartupFinished', root cause: GitHub.vscode-pull-request-github
+2024-09-16 08:45:56.084 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2024-09-16 08:45:57.202 [error] Error: Git model not found
+	at s.getAPI (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:795523)
+	at new Yu (/home/user/.vscode/extensions/github.vscode-pull-request-github-0.96.0/dist/extension.js:2129:28109)
+	at Yu.createProvider (/home/user/.vscode/extensions/github.vscode-pull-request-github-0.96.0/dist/extension.js:2129:28754)
+	at async I0 (/home/user/.vscode/extensions/github.vscode-pull-request-github-0.96.0/dist/extension.js:2129:34818)
+	at async yh (/home/user/.vscode/extensions/github.vscode-pull-request-github-0.96.0/dist/extension.js:2244:5763)
+	at async Py (/home/user/.vscode/extensions/github.vscode-pull-request-github-0.96.0/dist/extension.js:2244:6868)
+2024-09-16 08:46:03.778 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-09-16 08:50:20.048 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-09-16 08:52:30.801 [info] ExtensionService#_doActivateExtension ms-vscode.remote-server, startup: false, activationEvent: 'onCommand:remote-tunnels.connectCurrentWindowToTunnel'
+2024-09-16 08:59:33.200 [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+2024-09-16 08:59:33.203 [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onDebugResolve:pwa-chrome'
+2024-09-16 08:59:50.788 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-09-16 08:59:50.795 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-09-16 08:59:50.822 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-09-16 09:02:35.972 [info] ExtensionService#_doActivateExtension GitLab.gitlab-workflow, startup: false, activationEvent: 'onStartupFinished'
+2024-09-16 09:11:45.405 [info] Extension host terminating: renderer closed the MessagePort
+2024-09-16 09:11:45.456 [info] Extension host with pid 3116 exiting with code 0
+2024-09-16 09:11:46.845 [info] Extension host with pid 6994 started
+2024-09-16 09:11:46.845 [info] Skipping acquiring lock for /home/user/.config/Code/User/workspaceStorage/90a615f194363d07400206e430fdb365.
+2024-09-16 09:11:46.969 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-09-16 09:11:46.978 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-09-16 09:11:47.527 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-09-16 09:11:47.555 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-09-16 09:11:47.578 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-09-16 09:11:47.626 [info] Eager extensions activated
+2024-09-16 09:11:47.654 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-09-16 09:11:47.656 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-09-16 09:11:47.660 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onStartupFinished', root cause: GitHub.vscode-pull-request-github
+2024-09-16 09:11:47.668 [info] ExtensionService#_doActivateExtension GitLab.gitlab-workflow, startup: false, activationEvent: 'onStartupFinished'
+2024-09-16 09:11:47.788 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2024-09-16 09:11:48.655 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-09-16 09:11:48.658 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-09-16 09:11:48.673 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-09-16 09:11:52.302 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3511
+2024-09-16 09:11:52.626 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3513
+2024-09-16 09:11:53.324 [error] Error: No such branch: main.
+	at N.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:937115)
+	at async T.retryRun (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032816)
+	at async T.run (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032420)
+	at async T.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020563)
+	at async T.getBranchBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020849)
+	at async t.GitHistoryProvider.resolveHEADMergeBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:948410)
+	at async t.GitHistoryProvider.onDidRunGitStatus (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:941737)
+2024-09-16 09:11:53.656 [error] Error: No such branch: main.
+	at N.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:937115)
+	at async T.retryRun (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032816)
+	at async T.run (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032420)
+	at async T.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020563)
+	at async T.getBranchBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020849)
+	at async t.GitHistoryProvider.resolveHEADMergeBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:948410)
+	at async t.GitHistoryProvider.onDidRunGitStatus (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:941737)
+2024-09-16 09:11:54.906 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3513
+2024-09-16 09:11:55.911 [error] Error: No such branch: main.
+	at N.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:937115)
+	at async T.retryRun (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032816)
+	at async T.run (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032420)
+	at async T.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020563)
+	at async T.getBranchBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020849)
+	at async t.GitHistoryProvider.resolveHEADMergeBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:948410)
+	at async t.GitHistoryProvider.onDidRunGitStatus (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:941737)
+2024-09-16 09:11:59.962 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3511
+2024-09-16 09:12:00.970 [error] Error: No such branch: main.
+	at N.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:937115)
+	at async T.retryRun (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032816)
+	at async T.run (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032420)
+	at async T.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020563)
+	at async T.getBranchBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020849)
+	at async t.GitHistoryProvider.resolveHEADMergeBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:948410)
+	at async t.GitHistoryProvider.onDidRunGitStatus (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:941737)
+2024-09-16 09:12:05.043 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3511
+2024-09-16 09:12:06.052 [error] Error: No such branch: main.
+	at N.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:937115)
+	at async T.retryRun (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032816)
+	at async T.run (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032420)
+	at async T.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020563)
+	at async T.getBranchBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020849)
+	at async t.GitHistoryProvider.resolveHEADMergeBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:948410)
+	at async t.GitHistoryProvider.onDidRunGitStatus (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:941737)
+2024-09-16 09:12:10.093 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3511
+2024-09-16 09:12:11.100 [error] Error: No such branch: main.
+	at N.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:937115)
+	at async T.retryRun (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032816)
+	at async T.run (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032420)
+	at async T.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020563)
+	at async T.getBranchBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020849)
+	at async t.GitHistoryProvider.resolveHEADMergeBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:948410)
+	at async t.GitHistoryProvider.onDidRunGitStatus (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:941737)
+2024-09-16 09:12:15.149 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3517
+2024-09-16 09:12:16.163 [error] Error: No such branch: main.
+	at N.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:937115)
+	at async T.retryRun (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032816)
+	at async T.run (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032420)
+	at async T.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020563)
+	at async T.getBranchBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020849)
+	at async t.GitHistoryProvider.resolveHEADMergeBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:948410)
+	at async t.GitHistoryProvider.onDidRunGitStatus (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:941737)
+2024-09-16 09:12:20.201 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3517
+2024-09-16 09:12:21.207 [error] Error: No such branch: main.
+	at N.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:937115)
+	at async T.retryRun (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032816)
+	at async T.run (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032420)
+	at async T.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020563)
+	at async T.getBranchBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020849)
+	at async t.GitHistoryProvider.resolveHEADMergeBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:948410)
+	at async t.GitHistoryProvider.onDidRunGitStatus (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:941737)
+2024-09-16 09:12:25.245 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3517
+2024-09-16 09:12:26.250 [error] Error: No such branch: main.
+	at N.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:937115)
+	at async T.retryRun (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032816)
+	at async T.run (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032420)
+	at async T.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020563)
+	at async T.getBranchBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020849)
+	at async t.GitHistoryProvider.resolveHEADMergeBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:948410)
+	at async t.GitHistoryProvider.onDidRunGitStatus (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:941737)
+2024-09-16 09:12:30.297 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3517
+2024-09-16 09:12:31.303 [error] Error: No such branch: main.
+	at N.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:937115)
+	at async T.retryRun (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032816)
+	at async T.run (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032420)
+	at async T.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020563)
+	at async T.getBranchBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020849)
+	at async t.GitHistoryProvider.resolveHEADMergeBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:948410)
+	at async t.GitHistoryProvider.onDidRunGitStatus (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:941737)
+2024-09-16 09:12:35.340 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3517
+2024-09-16 09:12:36.349 [error] Error: No such branch: main.
+	at N.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:937115)
+	at async T.retryRun (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032816)
+	at async T.run (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032420)
+	at async T.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020563)
+	at async T.getBranchBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020849)
+	at async t.GitHistoryProvider.resolveHEADMergeBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:948410)
+	at async t.GitHistoryProvider.onDidRunGitStatus (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:941737)
+2024-09-16 09:12:40.389 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3517
+2024-09-16 09:12:41.392 [error] Error: No such branch: main.
+	at N.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:937115)
+	at async T.retryRun (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032816)
+	at async T.run (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032420)
+	at async T.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020563)
+	at async T.getBranchBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020849)
+	at async t.GitHistoryProvider.resolveHEADMergeBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:948410)
+	at async t.GitHistoryProvider.onDidRunGitStatus (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:941737)
+2024-09-16 09:12:45.445 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3517
+2024-09-16 09:12:46.452 [error] Error: No such branch: main.
+	at N.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:937115)
+	at async T.retryRun (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032816)
+	at async T.run (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032420)
+	at async T.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020563)
+	at async T.getBranchBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020849)
+	at async t.GitHistoryProvider.resolveHEADMergeBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:948410)
+	at async t.GitHistoryProvider.onDidRunGitStatus (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:941737)
+2024-09-16 09:12:50.517 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3517
+2024-09-16 09:12:51.522 [error] Error: No such branch: main.
+	at N.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:937115)
+	at async T.retryRun (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032816)
+	at async T.run (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032420)
+	at async T.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020563)
+	at async T.getBranchBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020849)
+	at async t.GitHistoryProvider.resolveHEADMergeBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:948410)
+	at async t.GitHistoryProvider.onDidRunGitStatus (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:941737)
+2024-09-16 09:12:55.561 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3517
+2024-09-16 09:12:56.568 [error] Error: No such branch: main.
+	at N.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:937115)
+	at async T.retryRun (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032816)
+	at async T.run (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032420)
+	at async T.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020563)
+	at async T.getBranchBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020849)
+	at async t.GitHistoryProvider.resolveHEADMergeBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:948410)
+	at async t.GitHistoryProvider.onDidRunGitStatus (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:941737)
+2024-09-16 09:13:00.616 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3517
+2024-09-16 09:13:01.620 [error] Error: No such branch: main.
+	at N.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:937115)
+	at async T.retryRun (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032816)
+	at async T.run (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032420)
+	at async T.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020563)
+	at async T.getBranchBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020849)
+	at async t.GitHistoryProvider.resolveHEADMergeBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:948410)
+	at async t.GitHistoryProvider.onDidRunGitStatus (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:941737)
+2024-09-16 09:13:05.704 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3517
+2024-09-16 09:13:06.711 [error] Error: No such branch: main.
+	at N.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:937115)
+	at async T.retryRun (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032816)
+	at async T.run (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032420)
+	at async T.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020563)
+	at async T.getBranchBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020849)
+	at async t.GitHistoryProvider.resolveHEADMergeBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:948410)
+	at async t.GitHistoryProvider.onDidRunGitStatus (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:941737)
+2024-09-16 09:13:10.755 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3518
+2024-09-16 09:13:11.761 [error] Error: No such branch: main.
+	at N.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:937115)
+	at async T.retryRun (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032816)
+	at async T.run (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032420)
+	at async T.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020563)
+	at async T.getBranchBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020849)
+	at async t.GitHistoryProvider.resolveHEADMergeBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:948410)
+	at async t.GitHistoryProvider.onDidRunGitStatus (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:941737)
+2024-09-16 09:13:15.808 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3518
+2024-09-16 09:13:16.815 [error] Error: No such branch: main.
+	at N.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:937115)
+	at async T.retryRun (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032816)
+	at async T.run (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032420)
+	at async T.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020563)
+	at async T.getBranchBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020849)
+	at async t.GitHistoryProvider.resolveHEADMergeBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:948410)
+	at async t.GitHistoryProvider.onDidRunGitStatus (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:941737)
+2024-09-16 09:13:20.865 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3518
+2024-09-16 09:13:21.870 [error] Error: No such branch: main.
+	at N.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:937115)
+	at async T.retryRun (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032816)
+	at async T.run (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032420)
+	at async T.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020563)
+	at async T.getBranchBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020849)
+	at async t.GitHistoryProvider.resolveHEADMergeBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:948410)
+	at async t.GitHistoryProvider.onDidRunGitStatus (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:941737)
+2024-09-16 09:13:25.939 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3786
+2024-09-16 09:13:26.948 [error] Error: No such branch: main.
+	at N.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:937115)
+	at async T.retryRun (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032816)
+	at async T.run (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032420)
+	at async T.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020563)
+	at async T.getBranchBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020849)
+	at async t.GitHistoryProvider.resolveHEADMergeBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:948410)
+	at async t.GitHistoryProvider.onDidRunGitStatus (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:941737)
+2024-09-16 09:13:31.309 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5265
+2024-09-16 09:13:32.316 [error] Error: No such branch: main.
+	at N.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:937115)
+	at async T.retryRun (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032816)
+	at async T.run (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032420)
+	at async T.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020563)
+	at async T.getBranchBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020849)
+	at async t.GitHistoryProvider.resolveHEADMergeBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:948410)
+	at async t.GitHistoryProvider.onDidRunGitStatus (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:941737)
+2024-09-16 09:13:36.375 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5264
+2024-09-16 09:13:37.381 [error] Error: No such branch: main.
+	at N.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:937115)
+	at async T.retryRun (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032816)
+	at async T.run (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032420)
+	at async T.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020563)
+	at async T.getBranchBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020849)
+	at async t.GitHistoryProvider.resolveHEADMergeBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:948410)
+	at async t.GitHistoryProvider.onDidRunGitStatus (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:941737)
+2024-09-16 09:13:41.430 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5264
+2024-09-16 09:13:42.438 [error] Error: No such branch: main.
+	at N.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:937115)
+	at async T.retryRun (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032816)
+	at async T.run (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032420)
+	at async T.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020563)
+	at async T.getBranchBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020849)
+	at async t.GitHistoryProvider.resolveHEADMergeBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:948410)
+	at async t.GitHistoryProvider.onDidRunGitStatus (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:941737)
+2024-09-16 09:13:46.489 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5264
+2024-09-16 09:13:47.499 [error] Error: No such branch: main.
+	at N.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:937115)
+	at async T.retryRun (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032816)
+	at async T.run (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032420)
+	at async T.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020563)
+	at async T.getBranchBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020849)
+	at async t.GitHistoryProvider.resolveHEADMergeBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:948410)
+	at async t.GitHistoryProvider.onDidRunGitStatus (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:941737)
+2024-09-16 09:13:51.551 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5264
+2024-09-16 09:13:52.555 [error] Error: No such branch: main.
+	at N.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:937115)
+	at async T.retryRun (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032816)
+	at async T.run (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032420)
+	at async T.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020563)
+	at async T.getBranchBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020849)
+	at async t.GitHistoryProvider.resolveHEADMergeBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:948410)
+	at async t.GitHistoryProvider.onDidRunGitStatus (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:941737)
+2024-09-16 09:13:56.619 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5264
+2024-09-16 09:13:57.626 [error] Error: No such branch: main.
+	at N.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:937115)
+	at async T.retryRun (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032816)
+	at async T.run (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032420)
+	at async T.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020563)
+	at async T.getBranchBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020849)
+	at async t.GitHistoryProvider.resolveHEADMergeBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:948410)
+	at async t.GitHistoryProvider.onDidRunGitStatus (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:941737)
+2024-09-16 09:14:01.683 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5264
+2024-09-16 09:14:02.691 [error] Error: No such branch: main.
+	at N.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:937115)
+	at async T.retryRun (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032816)
+	at async T.run (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032420)
+	at async T.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020563)
+	at async T.getBranchBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020849)
+	at async t.GitHistoryProvider.resolveHEADMergeBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:948410)
+	at async t.GitHistoryProvider.onDidRunGitStatus (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:941737)
+2024-09-16 09:14:06.760 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5264
+2024-09-16 09:14:07.770 [error] Error: No such branch: main.
+	at N.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:937115)
+	at async T.retryRun (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032816)
+	at async T.run (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032420)
+	at async T.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020563)
+	at async T.getBranchBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020849)
+	at async t.GitHistoryProvider.resolveHEADMergeBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:948410)
+	at async t.GitHistoryProvider.onDidRunGitStatus (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:941737)
+2024-09-16 09:14:11.827 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5264
+2024-09-16 09:14:12.835 [error] Error: No such branch: main.
+	at N.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:937115)
+	at async T.retryRun (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032816)
+	at async T.run (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032420)
+	at async T.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020563)
+	at async T.getBranchBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020849)
+	at async t.GitHistoryProvider.resolveHEADMergeBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:948410)
+	at async t.GitHistoryProvider.onDidRunGitStatus (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:941737)
+2024-09-16 09:14:16.897 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5264
+2024-09-16 09:14:17.903 [error] Error: No such branch: main.
+	at N.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:937115)
+	at async T.retryRun (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032816)
+	at async T.run (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032420)
+	at async T.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020563)
+	at async T.getBranchBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020849)
+	at async t.GitHistoryProvider.resolveHEADMergeBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:948410)
+	at async t.GitHistoryProvider.onDidRunGitStatus (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:941737)
+2024-09-16 09:14:21.978 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5264
+2024-09-16 09:14:22.989 [error] Error: No such branch: main.
+	at N.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:937115)
+	at async T.retryRun (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032816)
+	at async T.run (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032420)
+	at async T.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020563)
+	at async T.getBranchBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020849)
+	at async t.GitHistoryProvider.resolveHEADMergeBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:948410)
+	at async t.GitHistoryProvider.onDidRunGitStatus (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:941737)
+2024-09-16 09:14:27.046 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5264
+2024-09-16 09:14:28.057 [error] Error: No such branch: main.
+	at N.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:937115)
+	at async T.retryRun (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032816)
+	at async T.run (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032420)
+	at async T.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020563)
+	at async T.getBranchBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020849)
+	at async t.GitHistoryProvider.resolveHEADMergeBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:948410)
+	at async t.GitHistoryProvider.onDidRunGitStatus (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:941737)
+2024-09-16 09:14:32.137 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5264
+2024-09-16 09:14:33.144 [error] Error: No such branch: main.
+	at N.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:937115)
+	at async T.retryRun (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032816)
+	at async T.run (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1032420)
+	at async T.getBranch (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020563)
+	at async T.getBranchBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:1020849)
+	at async t.GitHistoryProvider.resolveHEADMergeBase (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:948410)
+	at async t.GitHistoryProvider.onDidRunGitStatus (/snap/code/169/usr/share/code/resources/app/extensions/git/dist/main.js:2:941737)

@@ -1,0 +1,6 @@
+2024-09-16 08:31:14.960 [error] [File Watcher (universal)] restarting watcher after unexpected error: terminated by itself unexpectedly with code 32512, signal: unknown (ETERM)
+2024-09-16 08:31:14.973 [error] [File Watcher (universal)] restarting watcher after unexpected error: terminated by itself unexpectedly with code 32512, signal: unknown (ETERM)
+2024-09-16 08:31:14.999 [error] [File Watcher (universal)] restarting watcher after unexpected error: terminated by itself unexpectedly with code 32512, signal: unknown (ETERM)
+2024-09-16 08:31:15.043 [error] [File Watcher (universal)] restarting watcher after unexpected error: terminated by itself unexpectedly with code 32512, signal: unknown (ETERM)
+2024-09-16 08:31:15.084 [error] [File Watcher (universal)] restarting watcher after unexpected error: terminated by itself unexpectedly with code 32512, signal: unknown (ETERM)
+2024-09-16 08:31:15.152 [error] [File Watcher (universal)] gave up attempting to restart watcher after unexpected error: terminated by itself unexpectedly with code 32512, signal: unknown (ETERM)

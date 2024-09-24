@@ -1,0 +1,9 @@
+2024-09-16 08:45:12.926 [info] Started local extension host with pid 2918.
+2024-09-16 08:45:15.580 [info] [perf] Render performance baseline is 32ms
+2024-09-16 08:45:51.753 [info] Started local extension host with pid 3116.
+2024-09-16 08:45:54.794 [info] [perf] Render performance baseline is 35ms
+2024-09-16 08:59:33.706 [error] [Extension Host] grep: /usr/bin/X11 : attention : boucle de répertoire récursive
+2024-09-16 08:59:33.734 [error] [Extension Host] grep: /usr/bin/X11 : attention : boucle de répertoire récursive
+2024-09-16 08:59:33.764 [error] [Extension Host] grep: /usr/bin/X11 : attention : boucle de répertoire récursive
+2024-09-16 09:11:46.398 [info] Started local extension host with pid 6994.
+2024-09-16 09:11:49.499 [info] [perf] Render performance baseline is 28ms

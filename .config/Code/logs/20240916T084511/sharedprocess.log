@@ -1,0 +1,73 @@
+2024-09-16 08:52:28.821 [info] Getting Manifest... ms-vscode.remote-server
+2024-09-16 08:52:28.833 [info] Installing extension: ms-vscode.remote-server {"isMachineScoped":false,"donotIncludePackAndDependencies":false,"context":{"skipWalkthrough":true},"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/user/.vscode/extensions/extensions.json","path":"/home/user/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.93.1","date":"2024-09-11T17:20:05.685Z"}}
+2024-09-16 08:52:29.203 [info] Getting Manifest... ms-vscode.remote-explorer
+2024-09-16 08:52:29.280 [info] Installing extension: ms-vscode.remote-explorer {"isMachineScoped":false,"donotIncludePackAndDependencies":false,"context":{"skipWalkthrough":true,"dependecyOrPackExtensionInstall":true},"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/user/.vscode/extensions/extensions.json","path":"/home/user/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.93.1","date":"2024-09-11T17:20:05.685Z"}}
+2024-09-16 08:52:30.386 [info] Extension signature verification result for ms-vscode.remote-explorer: Success. Executed: true. Duration: 719ms.
+2024-09-16 08:52:30.432 [info] Extracted extension to file:///home/user/.vscode/extensions/ms-vscode.remote-explorer-0.4.3: ms-vscode.remote-explorer
+2024-09-16 08:52:30.436 [info] Renamed to /home/user/.vscode/extensions/ms-vscode.remote-explorer-0.4.3
+2024-09-16 08:52:30.521 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp'
+    at o.create (/snap/code/169/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19406)
+    at u (/snap/code/169/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19517)
+    at $.hb (/snap/code/169/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36674)
+    at $.stat (/snap/code/169/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:29001)
+    at async c.stat (/snap/code/169/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14931)
+    at async W.ub (/snap/code/169/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:120356)
+2024-09-16 08:52:30.562 [info] Extension signature verification result for ms-vscode.remote-server: Success. Executed: true. Duration: 903ms.
+2024-09-16 08:52:30.681 [info] Extracted extension to file:///home/user/.vscode/extensions/ms-vscode.remote-server-1.5.2: ms-vscode.remote-server
+2024-09-16 08:52:30.695 [info] Renamed to /home/user/.vscode/extensions/ms-vscode.remote-server-1.5.2
+2024-09-16 08:52:30.710 [info] Extension installed successfully: ms-vscode.remote-explorer vscode-userdata:/home/user/.vscode/extensions/extensions.json
+2024-09-16 08:52:30.710 [info] Extension installed successfully: ms-vscode.remote-server vscode-userdata:/home/user/.vscode/extensions/extensions.json
+2024-09-16 08:52:30.756 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp'
+    at o.create (/snap/code/169/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19406)
+    at u (/snap/code/169/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19517)
+    at $.hb (/snap/code/169/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36674)
+    at $.stat (/snap/code/169/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:29001)
+    at async c.stat (/snap/code/169/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14931)
+    at async W.ub (/snap/code/169/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:120356)
+2024-09-16 09:01:43.083 [info] Uninstalling extension from the profile: github.vscode-pull-request-github@0.96.0 vscode-userdata:/home/user/.vscode/extensions/extensions.json
+2024-09-16 09:01:43.115 [info] Marked extension as uninstalled github.vscode-pull-request-github-0.96.0
+2024-09-16 09:01:43.174 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp'
+    at o.create (/snap/code/169/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19406)
+    at u (/snap/code/169/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19517)
+    at $.hb (/snap/code/169/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36674)
+    at $.stat (/snap/code/169/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:29001)
+    at async c.stat (/snap/code/169/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14931)
+    at async W.ub (/snap/code/169/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:120356)
+2024-09-16 09:01:43.391 [info] Successfully uninstalled extension from the profile github.vscode-pull-request-github@0.96.0 vscode-userdata:/home/user/.vscode/extensions/extensions.json
+2024-09-16 09:01:44.533 [info] Getting Manifest... github.vscode-pull-request-github
+2024-09-16 09:01:44.607 [info] Installing extension: github.vscode-pull-request-github {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"productVersion":{"version":"1.93.1","date":"2024-09-11T17:20:05.685Z"},"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/user/.vscode/extensions/extensions.json","path":"/home/user/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-09-16 09:01:44.810 [info] Removed the extension from uninstalled list: github.vscode-pull-request-github
+2024-09-16 09:01:44.840 [info] Extension installed successfully: github.vscode-pull-request-github vscode-userdata:/home/user/.vscode/extensions/extensions.json
+2024-09-16 09:01:44.906 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp'
+    at o.create (/snap/code/169/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19406)
+    at u (/snap/code/169/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19517)
+    at $.hb (/snap/code/169/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36674)
+    at $.stat (/snap/code/169/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:29001)
+    at async c.stat (/snap/code/169/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14931)
+    at async W.ub (/snap/code/169/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:120356)
+2024-09-16 09:02:17.891 [info] Getting Manifest... mccarter.start-git-bash
+2024-09-16 09:02:17.897 [info] Installing extension: mccarter.start-git-bash {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"productVersion":{"version":"1.93.1","date":"2024-09-11T17:20:05.685Z"},"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/user/.vscode/extensions/extensions.json","path":"/home/user/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false}
+2024-09-16 09:02:18.852 [info] Extension signature verification result for mccarter.start-git-bash: Success. Executed: true. Duration: 588ms.
+2024-09-16 09:02:18.864 [info] Extracted extension to file:///home/user/.vscode/extensions/mccarter.start-git-bash-1.2.1: mccarter.start-git-bash
+2024-09-16 09:02:18.877 [info] Renamed to /home/user/.vscode/extensions/mccarter.start-git-bash-1.2.1
+2024-09-16 09:02:18.890 [info] Extension installed successfully: mccarter.start-git-bash vscode-userdata:/home/user/.vscode/extensions/extensions.json
+2024-09-16 09:02:18.960 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp'
+    at o.create (/snap/code/169/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19406)
+    at u (/snap/code/169/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19517)
+    at $.hb (/snap/code/169/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36674)
+    at $.stat (/snap/code/169/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:29001)
+    at async c.stat (/snap/code/169/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14931)
+    at async W.ub (/snap/code/169/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:120356)
+2024-09-16 09:02:33.436 [info] Getting Manifest... gitlab.gitlab-workflow
+2024-09-16 09:02:33.443 [info] Installing extension: gitlab.gitlab-workflow {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"productVersion":{"version":"1.93.1","date":"2024-09-11T17:20:05.685Z"},"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/user/.vscode/extensions/extensions.json","path":"/home/user/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false}
+2024-09-16 09:02:35.071 [info] Extension signature verification result for gitlab.gitlab-workflow: Success. Executed: true. Duration: 607ms.
+2024-09-16 09:02:35.658 [info] Extracted extension to file:///home/user/.vscode/extensions/gitlab.gitlab-workflow-5.9.1: gitlab.gitlab-workflow
+2024-09-16 09:02:35.672 [info] Renamed to /home/user/.vscode/extensions/gitlab.gitlab-workflow-5.9.1
+2024-09-16 09:02:35.691 [info] Extension installed successfully: gitlab.gitlab-workflow vscode-userdata:/home/user/.vscode/extensions/extensions.json
+2024-09-16 09:02:35.757 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp'
+    at o.create (/snap/code/169/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19406)
+    at u (/snap/code/169/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19517)
+    at $.hb (/snap/code/169/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36674)
+    at $.stat (/snap/code/169/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:29001)
+    at async c.stat (/snap/code/169/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14931)
+    at async W.ub (/snap/code/169/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:120356)
